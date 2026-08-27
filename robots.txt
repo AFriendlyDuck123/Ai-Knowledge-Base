@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://afriendlyduck123.github.io/Ai-Knowledge-Base/sitemap.xml
